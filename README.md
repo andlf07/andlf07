@@ -21,12 +21,14 @@ Hi what's up?, I am an Electrical Engineer who's decide to become a software dev
 
 ## Technologies
  
- * JavaScript
- * TypeScript
- * NodeJS
- * ExpressJS
- * HTML5
- * CSS
+ * JavaScript.
+ * TypeScript.
+ * NodeJS.
+ * ExpressJS.
+ * MongoDB.
+ * Sequelize.
+ * HTML5.
+ * CSS.
 
 
 
