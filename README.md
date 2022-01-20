@@ -10,7 +10,12 @@ Hi what's up?, I am an Electrical Engineer who's decide to become a software dev
 
 
 ## Projects
-* ##### [Evaluation System](https://github.com/andlf07/evaluation-system-api)
+* ##### [Evaluation system API](https://github.com/andlf07/evaluation-system-api)
+* ##### [Multi destination API](https://github.com/andlf07/multi-destinaion-api)
+* ##### [Fylo dark theme](https://github.com/andlf07/fylo-dark-theme)
+* ##### [Four card](https://github.com/andlf07/four-card-frontendmentor)
+* ##### [Rick and morty](https://github.com/andlf07/rick-and-morty-api)
+
 
 
 
