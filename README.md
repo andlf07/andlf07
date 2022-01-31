@@ -21,7 +21,7 @@ Hi what's up?, I am an Electrical Engineer who's decide to become a software dev
 
 ## Technologies
  
- * JavaScript.
+ ![JavaScript.](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
  * TypeScript.
  * NodeJS.
  * ExpressJS.
