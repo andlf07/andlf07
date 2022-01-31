@@ -30,6 +30,15 @@ Hi what's up?, I am an Electrical Engineer who's decide to become a software dev
  * HTML5.
  * CSS.
 
+## Soft Skills
+ * Conmmunication
+ * Commitment
+ * Motivation
+ * Curious
+ * Accept and give Feedback
+ * Documentation
+ * Empathy
+ * Autodidact
 
 
 
