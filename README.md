@@ -32,6 +32,7 @@ Hi what's up?, I am an Electrical Engineer who's decide to become a software dev
  ![Heroku.](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
  ![HTML5.](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS.](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ ![Slack.](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ## Soft Skills
  * Conmmunication
@@ -43,6 +44,8 @@ Hi what's up?, I am an Electrical Engineer who's decide to become a software dev
  * Empathy
  * Autodidact
 
+
+[![andlf07's GitHub stats](https://github-readme-stats.vercel.app/api?username=andlf07)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
